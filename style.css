@@ -9,17 +9,17 @@
 }
 
 :root{
-    --primary: #000000;
-    --business: #14ffd8;
-    --personal: #bc1cec;
-    --light: #453f4d;
-    --dark: #000000;
-    --gray: #caf0a4;
-    --danger: #ef4242;
+    --primary: #ffffff;
+    --business: #08211d;
+    --personal: #2d0539;
+    --light: #b5a6c9;
+    --dark: #fff7f7;
+    --gray: #23360f;
+    --danger: #380000;
     
-    --shadow: 0 1px 3px rgba(0, 0, 0, 0.699);
-    --business-glow: 0px 0px 4px rgba(42, 224, 185, 0.75);
-    --personal-glow: 0px 0px 4px rgba(231, 62, 161, 0.75);
+    --shadow: 0 1px 3px rgba(255, 255, 255, 0.699);
+    --business-glow: 0px 0px 4px rgba(11, 59, 48, 0.75);
+    --personal-glow: 0px 0px 4px rgba(71, 11, 46, 0.75);
 }
 
 input:not([type="radio"]):not([type="checkbox"]), button{
