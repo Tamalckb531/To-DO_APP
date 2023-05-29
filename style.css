@@ -9,13 +9,13 @@
 }
 
 :root{
-    --primary: #480785;
+    --primary: #000000;
     --business: #14ffd8;
     --personal: #bc1cec;
-    --light: #020005;
-    --dark: #313154;
+    --light: #453f4d;
+    --dark: #000000;
     --gray: #caf0a4;
-    --danger: #3f0706;
+    --danger: #ef4242;
     
     --shadow: 0 1px 3px rgba(0, 0, 0, 0.699);
     --business-glow: 0px 0px 4px rgba(42, 224, 185, 0.75);
